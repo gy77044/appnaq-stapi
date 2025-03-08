@@ -15,7 +15,10 @@
     "@strapi/plugin-cloud": "5.9.0",
     "@strapi/plugin-documentation": "^5.10.0",
     "@strapi/plugin-users-permissions": "5.9.0",
+<<<<<<< HEAD
     "@strapi/provider-upload-cloudinary": "^5.11.0",
+=======
+>>>>>>> 89a2f51f06142b286a0b074cd2cb0bb0524d29da
     "@strapi/strapi": "5.9.0",
     "better-sqlite3": "11.3.0",
     "fs-extra": "^10.0.0",
